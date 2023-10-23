@@ -11,3 +11,5 @@ IDP_processing.R: Mainly filtering of the IDPs we need from the bigger dataset, 
 calculate_drinks.R: Script adapted from Vera Thornton's script on converting alcohol questionniare answers to numerical values
 
 regression_mediation.R: Final regression analyses and mediation analysis 
+
+40k_rfMRI.m: Dimension reduction approach for 40k resting functional IDPs 
